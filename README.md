@@ -42,3 +42,7 @@ Spory o domene, arbitraż, mediacja, orzecznictwo, sądy polubowne
 > -   [.AF Polityka rozwiązywania sporów /ang/](http://www.nic.af/domainpolicy.htm)
 > -   [.CM Polityka rozwiązywania sporów /fr/](http://www.antic.cm/index.php?option=com_content&view=article&id=181&Itemid=80)
 > -   [.CX Polityka rozwiązywania sporów /ang/](http://www.nic.cx/index.php/aup-complaints.html)
+
+---
+
++ [edit](https://github.com/dns-info-pl/spory-domenowe/edit/main/README.md)
