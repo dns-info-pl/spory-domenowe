@@ -45,4 +45,7 @@ Spory o domene, arbitraż, mediacja, orzecznictwo, sądy polubowne
 
 ---
 
-+ [edit](https://github.com/dns-info-pl/spory-domenowe/edit/main/README.md) [github.com/dns-info-pl/spory-domenowe](https://github.com/dns-info-pl/spory-domenowe)  git clone https://github.com/dns-info-pl/spory-domenowe.git
++ [edit](https://github.com/dns-info-pl/spory-domenowe/edit/main/README.md) 
++ [github.com/dns-info-pl/spory-domenowe](https://github.com/dns-info-pl/spory-domenowe)  
+
+      git clone https://github.com/dns-info-pl/spory-domenowe.git
